@@ -1,0 +1,7 @@
+# Force Unix-style LF endings
+* text=auto eol=lf
+
+# Prevent line-ending conversion for binary files
+*.pem binary
+*.tfstate binary
+*.tfstate.* binary
