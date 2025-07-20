@@ -14,3 +14,7 @@ variable "instance_profile_name" {
 variable "public_subnet_ids" {
   type = list(string)
 }
+
+variable "security_group_id" {
+    description = "security group id value"
+}

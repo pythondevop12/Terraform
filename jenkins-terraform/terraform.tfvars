@@ -1,0 +1,6 @@
+bucket_name_val = "jenkinsbuck"
+vpc_cidr_val = "10.0.0.0/16"
+region = "us-east-1"
+cidr_internet_block_val = "0.0.0.0/0"
+ami_value = "ami-020cba7c55df1f615"
+instance_type_val = "t2.micro"
