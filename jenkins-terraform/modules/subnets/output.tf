@@ -15,3 +15,4 @@ output "private_subnet_arns" {
     value = aws_subnet.private_subnet[*].arn
   
 }
+
